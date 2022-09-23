@@ -31,6 +31,16 @@ body{
     align-items: center;
 }
 
+.header ul #aqui {
+    font-weight: 1000;
+    color: #32b9cd;
+} 
+
+a {
+    color: #e3b062;
+    text-decoration: none;
+}
+
 /* Banner */
 
 .banner{
@@ -103,3 +113,4 @@ body{
     display: flex;
     justify-content: center;
 }
+
